@@ -1,6 +1,8 @@
 Email Blueprints
 ================
 
+**Note**: the only difference between this repository and [the main branch](https://github.com/mailchimp/email-blueprints) is that these HTML templates have been properly formatted. Mailchimp's were excessively messy.
+
 [Brought to you by MailChimp](http://www.mailchimp.com/), these email blueprints are licensed under a [Creative Commons Attribution-ShareAlike 3.0 Unported License](http://creativecommons.org/licenses/by-sa/3.0/).
 
 Email Blueprints is a collection of HTML email templates that can serve as a solid foundation and starting point for the design of emails. They include template language elements that make them customizable when imported into a MailChimp account, as well as merge tags that will generate dynamic content when sent through MailChimp. Not a MailChimp user? You can [sign up free](http://www.mailchimp.com/signup) or simply strip out merge tags and use these templates to send through any system.
